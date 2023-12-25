@@ -6,7 +6,7 @@ Accident Analysis & Prevention provides wide coverage of the general areas relat
 
 **STEPS INVOLVED**:
 
-Extracting the data from Excel.
+Extracting the data from Kaggle.
 Transforming the data in Power Query in Power BI.
 Loading it in the Power BI and creating dashboard using various charts and DAX queries.
 
